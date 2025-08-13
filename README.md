@@ -1,5 +1,9 @@
 # 💫 About Me:
-🛠  I’m currently Studying at Universitas Sumatera Utara while diving deeper into JavaScript.<br>🤝 I’m looking to collaborate on projects related to web development, especially using JavaScript frameworks.<br>👐 I’m looking for help with enhancing my skills in Next.js and Vite to build better web applications.<br>🌱 I’m currently learning Next.js, Vite, and modern web development techniques.<br>💬 Ask me about anything related to web development! I’d love to discuss JavaScript, frontend frameworks, and best coding practices.<br>⚡ Fun fact<br>My curiosity often leads me to explore new technologies, even before I fully understand them!
+💻 Fresh graduate in Informatics Engineering from Universitas Sumatera Utara, passionate about building impactful web applications.
+🌱 Continuously learning and exploring modern web development, with a focus on JavaScript, Next.js, and Vite.
+🤝 Open to collaborating on web development projects and contributing to innovative software solutions.
+💬 Enjoy discussing web development, UI/UX design principles, and best coding practices.
+⚡ Fun fact: My curiosity often drives me to explore new technologies long before I master the previous ones!
 
 
 ## 🌐 Socials:
