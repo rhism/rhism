@@ -1,9 +1,8 @@
 # 💫 About Me:
-💻 Fresh graduate in Informatics Engineering from Universitas Sumatera Utara, passionate about building impactful web applications.
-🌱 Continuously learning and exploring modern web development, with a focus on JavaScript, Next.js, and Vite.
-🤝 Open to collaborating on web development projects and contributing to innovative software solutions.
-💬 Enjoy discussing web development, UI/UX design principles, and best coding practices.
-⚡ Fun fact: My curiosity often drives me to explore new technologies long before I master the previous ones!
+💻 Fresh graduate in Informatics Engineering from Universitas Sumatera Utara, passionate about creating impactful web applications.<br>
+🌱 Continuously learning and exploring modern web development, focusing on JavaScript, Next.js, and Vite.<br>
+🤝 Open to collaborating on innovative web development projects and contributing to meaningful software solutions.<br>
+💬 Love discussing web development, UI/UX design principles, and best coding practices.<br>
 
 
 ## 🌐 Socials:
